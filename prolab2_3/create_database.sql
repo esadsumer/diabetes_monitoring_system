@@ -1,0 +1,1 @@
+CREATE DATABASE diabetes_monitoring_system; 

@@ -1,0 +1,5 @@
+PyQt6>=6.6.1
+psycopg2-binary>=2.9.9
+bcrypt>=4.1.2
+Pillow>=10.2.0
+python-dotenv>=1.0.1 
